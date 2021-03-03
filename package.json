@@ -1,21 +1,21 @@
 {
-  "name": "mhartington",
-  "version": "2.0.1",
+  "name": "ccoppola",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "mhartington": "./index.js"
+    "ccoppola": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhartington/npm-mhartington.git"
+    "url": "git+https://github.com/agentender/npm-ccoppola.git"
   },
   "author": "Mike Hartington <mikehartington@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mhartington/npm-mhartington/issues"
+    "url": "https://github.com/ccoppola/npm-ccoppola/issues"
   },
-  "homepage": "https://github.com/mhartington/npm-mhartington#readme",
+  "homepage": "https://github.com/agentender/npm-ccoppola#readme",
   "dependencies": {
     "colorette": "1.0.7"
   }
