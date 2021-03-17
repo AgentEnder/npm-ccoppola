@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/agentender/npm-ccoppola.git"
   },
-  "author": "Mike Hartington <mikehartington@gmail.com>",
+  "author": "Craigory Coppola",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ccoppola/npm-ccoppola/issues"
@@ -24,7 +24,6 @@
     "@types/node": "^14.14.35",
     "jasmine": "^3.6.4",
     "ts-node": "^9.1.1",
-    "tsc": "^1.20150623.0",
     "typescript": "^4.2.3",
     "url-exists": "^1.0.3"
   },
