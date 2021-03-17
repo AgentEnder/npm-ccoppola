@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "lib": ["es2019"],
+      "target": "ES6",
+      "module": "commonjs"
+    },
+    "include": ["./src/**/*.ts"],
+    "exclude": ["./src/**/*.spec.ts"]
+  }
