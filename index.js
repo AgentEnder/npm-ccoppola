@@ -3,7 +3,7 @@ const {white, cyan, green,bold, blue} = require("colorette")
 
 // Text + chalk definitions
 var work = white(`${blue('Angular / Nx')}, Developer, Advocate`)
-var twitter = cyan('https://twitter.com/agentender')
+var twitter = cyan('https://twitter.com/enderagent')
 var github = cyan('https://github.com/agentender')
 var site = cyan('https://craigory.dev')
 var npx = white('npx ccoppola')
